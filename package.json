@@ -1,0 +1,22 @@
+{
+  "name": "poopstacksbot",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malilaychris/poopstacksbot.git"
+  },
+  "author": "malilaychris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malilaychris/poopstacksbot/issues"
+  },
+  "homepage": "https://github.com/malilaychris/poopstacksbot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
